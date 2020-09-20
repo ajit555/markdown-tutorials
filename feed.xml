@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Markdown Tutorials</title>
+    <link href="https://ajit555.github.io/markdown-tutorials/feed.xml" rel="self" />
+    <link href="https://ajit555.github.io/markdown-tutorials" />
+    <updated>1970-01-01T05:30:00+05:30</updated>
+    <author>
+        <name>Ajit Singh</name>
+    </author>
+    <id>https://ajit555.github.io/markdown-tutorials</id>
+
+    <entry>
+        <title>Markdown Document Structure</title>
+        <author>
+            <name>Ajit Singh</name>
+        </author>
+        <link href="https://ajit555.github.io/markdown-tutorials/markdown-document-structure.html"/>
+        <id>https://ajit555.github.io/markdown-tutorials/markdown-document-structure.html</id>
+
+        <updated>2020-09-20T16:49:56+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Markdown documents are a sequence of Blocks - structural elements like paragraphs, block quotations, lists, headings, rules, and code blocks. Some blocks (like block quotes and list items) contain other blocks; others (like headings and paragraphs) contain inline contents - text, links, emphasized text, images,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Markdown documents are a sequence of <strong>Blocks</strong> - structural elements like paragraphs, block quotations, lists, headings, rules, and code blocks. </p>
+<p>Some blocks (like block quotes and list items) contain other blocks; others (like headings and paragraphs) contain <strong>inline</strong> contents - text, links, emphasized text, images, code spans, and so on.</p>
+<h1 id="container-blocks-and-leaf-blocks">Container blocks and Leaf blocks</h1>
+<p>We can divide blocks into two types: </p>
+<ol>
+<li>Container Blocks</li>
+<li>Leaf Blocks</li>
+</ol>
+<p>Container blocks can contain other blocks, and Leaf blocks cannot.</p>
+<h2 id="container-blocks">Container blocks</h2>
+<ul>
+<li>Paragraphs</li>
+<li>Block Quotations</li>
+<li>Lists</li>
+<li>Headings</li>
+<li>Rules</li>
+<li>Code blocks</li>
+</ul>
+<h2 id="leaf-blocks">Leaf blocks</h2>
+<ul>
+<li>Thematic breaks</li>
+<li>ATX headings</li>
+<li>Setext headings</li>
+<li>Indented code blocks</li>
+<li>Fenced code blocks</li>
+<li>HTML blocks</li>
+<li>Link reference definitions</li>
+<li>Paragraphs</li>
+<li>Blank lines</li>
+<li>Tables (GitHub specific extension)</li>
+</ul>
+<h1 id="inline-contents">Inline contents</h1>
+<ul>
+<li>Backslash escapes</li>
+<li>Entity and numeric character references</li>
+<li>Code spans</li>
+<li>Emphasis and strong emphasis</li>
+<li>Strikethrough (extension)</li>
+<li>Links</li>
+<li>Images</li>
+<li>Autolinks</li>
+<li>Autolinks (extension)</li>
+<li>Raw HTML</li>
+<li>Disallowed Raw HTML (extension)</li>
+<li>Hard line breaks</li>
+<li>Soft line breaks</li>
+<li>Textual content</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
