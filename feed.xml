@@ -17,7 +17,7 @@
         <link href="https://ajit555.github.io/markdown-tutorials/hello-markdown-world.html"/>
         <id>https://ajit555.github.io/markdown-tutorials/hello-markdown-world.html</id>
 
-        <updated>2020-09-20T17:51:07+05:30</updated>
+        <updated>2020-09-20T18:10:30+05:30</updated>
             <summary>
                 <![CDATA[
                     Below is a document produced by markdown syntax: Paragraphs are separatedby a blank line. Two spaces at the end of a line produces a line break. bold, monospace. Horizontal rule: Strikethrough: strikethrough Bullet list: Numbered list: An example. Markdown uses email-style characters for blockquoting. Inline&hellip;
@@ -107,10 +107,10 @@ Inline &lt;abbr title=&quot;Hypertext Markup Language&quot;&gt;HTML&lt;/abbr&gt;
         <link href="https://ajit555.github.io/markdown-tutorials/table-of-contents.html"/>
         <id>https://ajit555.github.io/markdown-tutorials/table-of-contents.html</id>
 
-        <updated>2020-09-20T17:51:07+05:30</updated>
+        <updated>2020-09-20T18:10:30+05:30</updated>
             <summary>
                 <![CDATA[
-                    Table of ContentsHello Markdown WorldMarkdown Document Structure
+                    Table of ContentsHello Markdown WorldMarkdown Document StructureContainer blocksParagraphsBlock QuotationsListsHeadingsRulesCode blocksLeaf blocksThematic breaksATX headingsSetext headingsIndented code blocksFenced code blocksHTML blocksLink reference definitionsParagraphsBlank linesTables (GitHub specific extension)Inline contentsBackslash escapesEntity and numeric character referencesCode spansEmphasis and strong emphasisStrikethrough (extension)LinksImagesAutolinksAutolinks (extension)Raw HTMLDisallowed Raw HTML (extension)Hard line breaksSoft line breaksTextual&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -118,7 +118,48 @@ Inline &lt;abbr title=&quot;Hypertext Markup Language&quot;&gt;HTML&lt;/abbr&gt;
                 <p><strong>Table of Contents</strong></p>
 <ul>
 <li><a href="https://ajit555.github.io/markdown-tutorials/hello-markdown-world.html">Hello Markdown World</a></li>
-<li><a href="https://ajit555.github.io/markdown-tutorials/markdown-document-structure.html">Markdown Document Structure</a></li>
+<li><a href="https://ajit555.github.io/markdown-tutorials/markdown-document-structure.html">Markdown Document Structure</a><ul>
+<li><strong>Container blocks</strong><ul>
+<li>Paragraphs</li>
+<li>Block Quotations</li>
+<li>Lists</li>
+<li>Headings</li>
+<li>Rules</li>
+<li>Code blocks</li>
+</ul>
+</li>
+<li><strong>Leaf blocks</strong><ul>
+<li>Thematic breaks</li>
+<li>ATX headings</li>
+<li>Setext headings</li>
+<li>Indented code blocks</li>
+<li>Fenced code blocks</li>
+<li>HTML blocks</li>
+<li>Link reference definitions</li>
+<li>Paragraphs</li>
+<li>Blank lines</li>
+<li>Tables (GitHub specific extension)</li>
+</ul>
+</li>
+<li><strong>Inline contents</strong><ul>
+<li>Backslash escapes</li>
+<li>Entity and numeric character references</li>
+<li>Code spans</li>
+<li>Emphasis and strong emphasis</li>
+<li>Strikethrough (extension)</li>
+<li>Links</li>
+<li>Images</li>
+<li>Autolinks</li>
+<li>Autolinks (extension)</li>
+<li>Raw HTML</li>
+<li>Disallowed Raw HTML (extension)</li>
+<li>Hard line breaks</li>
+<li>Soft line breaks</li>
+<li>Textual content</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 
             ]]>
@@ -132,7 +173,7 @@ Inline &lt;abbr title=&quot;Hypertext Markup Language&quot;&gt;HTML&lt;/abbr&gt;
         <link href="https://ajit555.github.io/markdown-tutorials/markdown-document-structure.html"/>
         <id>https://ajit555.github.io/markdown-tutorials/markdown-document-structure.html</id>
 
-        <updated>2020-09-20T17:51:07+05:30</updated>
+        <updated>2020-09-20T18:10:30+05:30</updated>
             <summary>
                 <![CDATA[
                     Markdown documents are a sequence of Blocks - structural elements like paragraphs, block quotations, lists, headings, rules, and code blocks. Some blocks (like block quotes and list items) contain other blocks; others (like headings and paragraphs) contain inline contents - text, links, emphasized text, images,&hellip;
