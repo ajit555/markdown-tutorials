@@ -10,22 +10,23 @@
     <id>https://ajit555.github.io/markdown-tutorials</id>
 
     <entry>
-        <title>Table of contents</title>
+        <title>Markdown Documents</title>
         <author>
             <name>Ajit Singh</name>
         </author>
         <link href="https://ajit555.github.io/markdown-tutorials/table-of-contents.html"/>
         <id>https://ajit555.github.io/markdown-tutorials/table-of-contents.html</id>
 
-        <updated>2020-09-20T17:10:10+05:30</updated>
+        <updated>2020-09-20T17:11:54+05:30</updated>
             <summary>
                 <![CDATA[
-                    Markdown Document Structure
+                    Table of ContentsMarkdown Document Structure
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <ul>
+                <p><strong>Table of Contents</strong></p>
+<ul>
 <li><a href="https://ajit555.github.io/markdown-tutorials/markdown-document-structure.html">Markdown Document Structure</a></li>
 </ul>
 
@@ -40,7 +41,7 @@
         <link href="https://ajit555.github.io/markdown-tutorials/markdown-document-structure.html"/>
         <id>https://ajit555.github.io/markdown-tutorials/markdown-document-structure.html</id>
 
-        <updated>2020-09-20T17:10:10+05:30</updated>
+        <updated>2020-09-20T17:11:54+05:30</updated>
             <summary>
                 <![CDATA[
                     Markdown documents are a sequence of Blocks - structural elements like paragraphs, block quotations, lists, headings, rules, and code blocks. Some blocks (like block quotes and list items) contain other blocks; others (like headings and paragraphs) contain inline contents - text, links, emphasized text, images,&hellip;
